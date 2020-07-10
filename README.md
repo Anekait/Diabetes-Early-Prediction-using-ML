@@ -1,0 +1,2 @@
+# Diabetes-Early-Prediction-using-ML
+Diabetes is one of the deadliest diseases in the world. It is not only a disease but also creators of different kinds of diseases like heart attack, blindness etc. The normal identifying process is that patients need to visit a diagnostic center, consult their doctor, and sit tight for a day or more to get their reports. So, the objective of this project is to identify whether the patient has diabetes or not based on diagnostic measurements.
